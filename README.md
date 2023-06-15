@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Moradi</h1>
-<h3 align="center">Junior Frontend Developer with 1 years of experience.Passionate developer with a solid foundation in web development and a focus on creating intuitive and visually appealing user interfaces.I'm always open to learn new things and try new stacks and challenge myself to grow more!</h3>
+<h3 align="center">Junior Frontend Developer with 1 years of experience. Passionate developer with a solid foundation in web development and a focus on creating intuitive and visually appealing user interfaces.I'm always open to learn new things and try new stacks and challenge myself to grow more!</h3>
 
 - 🌱 **I’m currently learning Typescript**
 
