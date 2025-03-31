@@ -5,7 +5,7 @@
 
 - 📫 You can contact me at **mmdmi.workspace@gmail.com**
 
-- ⚡ **Also I'm in love with AI**
+- ⚡ **Also I'm in love with AI/Web3**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
