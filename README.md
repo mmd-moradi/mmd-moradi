@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Moradi</h1>
 <h3 align="center">
-Passionate developer with 3+ years of experience building intuitive, responsive, and visually engaging user interfaces. I have a solid foundation in full-stack development and love creating seamless user experiences.
-💡 Always curious and constantly learning — I enjoy exploring new technologies, experimenting with different stacks, and challenging myself to grow every day.</h3>
+Passionate developer with 3+ years of experience building intuitive, responsive, and visually engaging user interfaces. I have a solid foundation in full-stack development and love creating seamless user experiences. Always curious and constantly learning — I enjoy exploring new technologies, experimenting with different stacks, and challenging myself to grow every day.</h3>
 
 - 🤝 **I'm open to collaborating on interesting and challenging projects**
 
